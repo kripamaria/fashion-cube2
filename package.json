@@ -1,7 +1,6 @@
 {
   "engines": {
   "node": "18"
-  },
   "name": "fashion-cube2",
   "version": "0.1.0",
   "private": true,
